@@ -2,10 +2,10 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="E:\Android\ContactManagerProject\ContactManager\src\main\assets" />
+        <source path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="E:\Android\ContactManagerProject\ContactManager\src\debug\assets" />
+        <source path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/debug/assets" />
     </dataSet>
 
 </merger>

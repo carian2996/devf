@@ -2,49 +2,59 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="E:\Android\ContactManagerProject\ContactManager\src\main\res" >
+        <source path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res" >
+            <file
+                name="android"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/drawable/android.ico"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="meta"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/drawable/meta.png"
+                qualifiers=""
+                type="drawable" />
             <file
                 name="no_user_logo"
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\drawable\no_user_logo.png"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/drawable/no_user_logo.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\drawable-hdpi\ic_launcher.png"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\drawable-mdpi\ic_launcher.png"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\drawable-xhdpi\ic_launcher.png"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="activity_main"
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\layout\activity_main.xml"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/layout/activity_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="listview_item"
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\layout\listview_item.xml"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/layout/listview_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="main"
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\menu\main.xml"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/menu/main.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\values\dimens.xml"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="activity_vertical_margin" >16dp
                 </dimen>
@@ -52,7 +62,7 @@
                 </dimen>
             </file>
             <file
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\values\strings.xml"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="hello_world" >Hello world!
                 </string>
@@ -62,7 +72,7 @@
                 </string>
             </file>
             <file
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\values\styles.xml"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -84,13 +94,13 @@
                 </style>
             </file>
             <file
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\values-sw720dp-land\dimens.xml"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/values-sw720dp-land/dimens.xml"
                 qualifiers="sw720dp-land-v13" >
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
             <file
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\values-v11\styles.xml"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -101,7 +111,7 @@
                 </style>
             </file>
             <file
-                path="E:\Android\ContactManagerProject\ContactManager\src\main\res\values-v14\styles.xml"
+                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -112,11 +122,11 @@
                 </style>
             </file>
         </source>
-        <source path="E:\Android\ContactManagerProject\ContactManager\build\generated\res\rs\debug" />
-        <source path="E:\Android\ContactManagerProject\ContactManager\build\generated\res\generated\debug" />
+        <source path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/build/generated/res/rs/debug" />
+        <source path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/build/generated/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="E:\Android\ContactManagerProject\ContactManager\src\debug\res" />
+        <source path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/debug/res" />
     </dataSet>
 
 </merger>

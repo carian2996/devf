@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cartera Magic</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">823915374285394</string>
+    <string name="entrar">Entrar</string>
+    <string name="salir">Salir</string>
+    <string name="hola_fb">Esto es una prueba de login en Facebook</string>
+
+</resources>
