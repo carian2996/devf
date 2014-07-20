@@ -92,6 +92,3 @@ responde <- function(meta, plazo, data_recu, data_nrec){
             "Para con las chelas"
       }
 }
-
-
-

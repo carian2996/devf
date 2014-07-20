@@ -10,6 +10,9 @@ import android.net.Uri;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by Johnny Manson on 19.01.14.
+ */
 public class DatabaseHandler extends SQLiteOpenHelper {
 
     private static final int DATABASE_VERSION = 1;

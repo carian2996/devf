@@ -37,7 +37,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textAppearance="?android:attr/textAppearanceLarge"
-                            android:text="Nueva Meta"
+                            android:text="Contact Creator"
                             android:id="@+id/lblCreatorTitle"
                             android:layout_gravity="center"
                             android:layout_marginTop="10dp"/>
@@ -48,50 +48,54 @@
                         android:id="@+id/imgViewContactImage"
                         android:layout_gravity="center_horizontal"
                         android:layout_marginTop="10dp"
-                        android:src="@drawable/meta" />
+                        android:src="@drawable/no_user_logo" />
 
                     <EditText
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
                             android:inputType="textPersonName"
                             android:ems="10"
-                            android:id="@+id/txtNameMeta"
+                            android:id="@+id/txtName"
                             android:layout_marginTop="20dp"
-                            android:hint="Nombre de la meta"
-                        android:enabled="false"
-                        android:text="Nombre de la meta" />
+                            android:hint="Contact Name"/>
 
                     <EditText
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
                             android:inputType="phone"
                             android:ems="10"
-                            android:id="@+id/txtCategoria"
+                            android:id="@+id/txtPhone"
                             android:layout_gravity="center"
                             android:layout_marginTop="15dp"
-                            android:hint="Phone Number"
-                        android:text="Categoría"
-                        android:enabled="false" />
+                            android:hint="Phone Number"/>
 
                     <EditText
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
                             android:ems="10"
-                            android:id="@+id/txtCosto"
+                            android:id="@+id/txtEmail"
                             android:layout_gravity="center"
                             android:layout_marginTop="15dp"
                             android:hint="Email"
-                            android:inputType="textEmailAddress"
-                        android:text="Costo"
-                        android:enabled="false" />
+                            android:inputType="textEmailAddress"/>
+
+                    <EditText
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:id="@+id/txtAddress"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="15dp"
+                            android:hint="Address"
+                            android:inputType="textPostalAddress"/>
 
                     <Button
                             android:layout_width="200dp"
                             android:layout_height="wrap_content"
-                            android:text="Add Meta"
-                            android:id="@+id/btnMeta"
+                            android:text="Add Contact"
+                            android:id="@+id/btnAdd"
                             android:layout_gravity="center"
-                            android:layout_marginTop="50dp"
+                            android:layout_marginTop="10dp"
                             android:enabled="false"/>
                 </LinearLayout>
 

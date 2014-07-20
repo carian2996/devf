@@ -2,6 +2,9 @@ package org.intracode.contactmanager;
 
 import android.net.Uri;
 
+/**
+ * Created by Johnny Manson on 23.07.13.
+ */
 public class Contact {
 
     private String _name, _phone, _email, _address;

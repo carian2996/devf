@@ -4,16 +4,6 @@
     <dataSet config="main" >
         <source path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res" >
             <file
-                name="android"
-                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/drawable/android.ico"
-                qualifiers=""
-                type="drawable" />
-            <file
-                name="meta"
-                path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/drawable/meta.png"
-                qualifiers=""
-                type="drawable" />
-            <file
                 name="no_user_logo"
                 path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/drawable/no_user_logo.png"
                 qualifiers=""
@@ -64,11 +54,11 @@
             <file
                 path="/Users/iancastillorosales/Desktop/repos/devf/Android/ContactManagerProject/ContactManager/src/main/res/values/strings.xml"
                 qualifiers="" >
-                <string name="hello_world" >Hello world!
+                <string name="hello_world" >Hola mundo!
                 </string>
                 <string name="action_settings" >Settings
                 </string>
-                <string name="app_name" >Contact Manager
+                <string name="app_name" >Administrador de metas
                 </string>
             </file>
             <file
