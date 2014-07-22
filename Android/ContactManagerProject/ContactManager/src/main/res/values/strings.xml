@@ -2,7 +2,10 @@
 <resources>
 
     <string name="app_name">Administrador de metas</string>
+    <string name="contact_creator">Creador de contactos</string>
+    <string name="contact_name">Nombre del contacto</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hola mundo!</string>
+
 
 </resources>

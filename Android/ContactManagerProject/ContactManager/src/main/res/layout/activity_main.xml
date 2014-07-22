@@ -1,3 +1,5 @@
+<?xml version="1.0" econding="utf-8"?>
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -17,7 +19,7 @@
                 android:orientation="vertical">
 
             <TabWidget
-                    android:id="@+id/"
+                    android:id="@+id/tabs"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content">
             </TabWidget>
@@ -37,7 +39,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textAppearance="?android:attr/textAppearanceLarge"
-                            android:text="Contact Creator"
+                            android:text="@string/contact_creator"
                             android:id="@+id/lblCreatorTitle"
                             android:layout_gravity="center"
                             android:layout_marginTop="10dp"/>
@@ -48,7 +50,7 @@
                         android:id="@+id/imgViewContactImage"
                         android:layout_gravity="center_horizontal"
                         android:layout_marginTop="10dp"
-                        android:src="@drawable/no_user_logo" />
+                        android:src="@drawable/no_user_logo"/>
 
                     <EditText
                             android:layout_width="fill_parent"
@@ -57,7 +59,7 @@
                             android:ems="10"
                             android:id="@+id/txtName"
                             android:layout_marginTop="20dp"
-                            android:hint="Contact Name"/>
+                            android:hint="@string/contact_name"/>
 
                     <EditText
                             android:layout_width="fill_parent"
@@ -97,6 +99,7 @@
                             android:layout_gravity="center"
                             android:layout_marginTop="10dp"
                             android:enabled="false"/>
+
                 </LinearLayout>
 
                 <LinearLayout
@@ -119,10 +122,13 @@
                             android:layout_height="wrap_content"
                             android:id="@+id/listView"
                             android:layout_gravity="center"/>
+
                 </LinearLayout>
 
             </FrameLayout>
+
         </LinearLayout>
+
     </TabHost>
 
 </LinearLayout>

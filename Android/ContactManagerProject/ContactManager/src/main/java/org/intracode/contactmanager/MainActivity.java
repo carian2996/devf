@@ -110,8 +110,8 @@ public class MainActivity extends Activity {
         String name = contact.getName();
         int contactCount = Contacts.size();
 
-        for (int i = 0; i < contactCount; i++) {
-            if (name.compareToIgnoreCase(Contacts.get(i).getName()) == 0)
+        for (org.intracode.contactmanager.Contact Contact : Contacts) {
+            if (name.compareToIgnoreCase(Contact.getName()) == 0)
                 return true;
         }
         return false;
@@ -132,6 +132,7 @@ public class MainActivity extends Activity {
     }
 
     private class ContactListAdapter extends ArrayAdapter<Contact> {
+
         public ContactListAdapter() {
             super (MainActivity.this, R.layout.listview_item, Contacts);
         }

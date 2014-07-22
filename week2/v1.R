@@ -1,6 +1,6 @@
 responde <- function(){
 
-setwd("~/Desktop/repos/devf/week2")
+setwd("~/Desktop/repos/devf/week3")
 source("model.R")
 
 data_recu <- read.csv("data_recu.csv", as.is = T)

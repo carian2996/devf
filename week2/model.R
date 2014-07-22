@@ -1,10 +1,10 @@
 # Ian Castillo Rosales
 # 16072014
 
-responde <- function(meta, plazo, data_recu, data_nrec){
+responde <- function(chelas = 0, meta, plazo, data_recu, data_nrec){
       
       # ENTRADA
-      
+
       # SALIDA
       
       dias <- unique(sort(format(as.Date(data_recu$date, "%d/%m/%Y"), "%d")))
