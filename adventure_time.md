@@ -8,7 +8,7 @@ Lunes 7 de Julio a las 15:00 fue la cita para todos mis compañeros, personas qu
 
 Un **hacker** es aquella persona capaz de solucionar los problemas, es aquella mente que ve diferente y tiene la capacidad de crear, construir y ayudar.
 
-Solucionar es evolucionar. Hackear es cambiar el mundo.
+> Solucionar es evolucionar. Hackear es cambiar el mundo.
 
 Aprendí demasiadas cosas como para poder listar todas en un sólo post, sin embargo, puedo decir que *Dev.F cambió la visión que tengo de la vida*, no es cosa de que vaya a dejar mis posesiones materiales y me vaya al Tíbet, pero ahora siento que tengo la posibilidad (además de las herramientas) para poder hacer algo en el mundo y en la sociedad para cambiarlo a bien.
 
