@@ -10,7 +10,7 @@ Un **hacker** es aquella persona capaz de solucionar los problemas, es aquella m
 
 Solucionar es evolucionar. Hackear es cambiar el mundo.
 
-Aprendí demasiadas cosas como para poder listar todas en un sólo post, sin embargo, puedo decir que *Dev.F cambió la visión que tengo de la vida*, no es cosa de que vaya a dejar mis cosas materiales y me vaya a ir al Tíbet, pero ahora siento que tengo la posibilidad (además de las herramientas) para poder hacer algo en el mundo y en la sociedad para cambiarlo a bien.
+Aprendí demasiadas cosas como para poder listar todas en un sólo post, sin embargo, puedo decir que *Dev.F cambió la visión que tengo de la vida*, no es cosa de que vaya a dejar mis posesiones materiales y me vaya al Tíbet, pero ahora siento que tengo la posibilidad (además de las herramientas) para poder hacer algo en el mundo y en la sociedad para cambiarlo a bien.
 
 Algún día durante este mes un amigo me pregunto:
 > ¿Cómo le haces para ser tan chingón?
