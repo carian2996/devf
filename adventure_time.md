@@ -4,7 +4,7 @@ El final de una etapa ha terminado hoy, pero una nueva está por comenzar.
 
 Hace poco menos de un mes comenzó la gran aventura llamada Dev.F, pocas personas estaban enteradas de lo que nos esperaba y muchas (incluyéndome) tomamos la decisión de *hackear nuestras vidas* y decidimos aceptar aquella invitación misteriosa.
 
-Lunes 7 de Julio a las 15:00 fue la cita para todos mis compañeros, personas que ahora forman parte de una lista muy especial que hice en Facebook y que seguramente se hará más grande con forme pase el tiempo, puesto que he encontrado una comunidad de personas totalmente nueva. Personas con diferentes orígenes, tintes y matices; aunque todas ellas tienen algo en común, su forma de ver la vida. La filosofía de un hacker no significa romper las leyes, no es ir en contra de los demás o de ser personas intolerantes con los demás, todo lo contrario.
+Lunes 7 de Julio a las 15:00 fue la cita para todos mis compañeros, personas que ahora forman parte de una lista muy especial que hice en Facebook y que seguramente se hará más grande con forme pase el tiempo, puesto que he encontrado una comunidad de personas totalmente nueva. Personas con diferentes orígenes, tintes y matices; aunque todas ellas tienen algo en común, su forma de ver la vida. La filosofía de un hacker no significa romper las leyes, no es ir en contra de los demás o de ser personas intolerantes, todo lo contrario.
 
 Un **hacker** es aquella persona capaz de solucionar los problemas, es aquella mente que ve diferente y tiene la capacidad de crear, construir y ayudar.
 
