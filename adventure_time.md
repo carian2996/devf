@@ -21,3 +21,5 @@ A lo que yo respondí:
 Y precisamente, así de fácil lo hizo Dev.F con nosotros, junto un grupo de personas con las mejores capacidades en su área, capaces de dar lo mejor de sí, los puso en Centraal (el mejor lugar que pudieron haber encontrado para algo como esto) y después... **La magia comenzó a surgir sola**
 
 La idea era que los des-alumnos hackearamos los problemas, pero al final, creo que todos nosotros fuimos los hackeados.
+
+Pdta. Agradecimientos especiales a PEG...
