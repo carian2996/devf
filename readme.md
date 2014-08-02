@@ -1,5 +1,5 @@
 # Programming is the closest thing that we have to superpowers
-!(https://www.flickr.com/photos/125804510@N05/14826626553/ "Programar es lo más cercano que tenemos a tener superpoderes")
+![](https://farm6.staticflickr.com/5562/14826626553_8c7db1c9dc.jpg "Programar es lo más cercano que tenemos a tener superpoderes")
 
 El final de una etapa ha terminado hoy, pero una nueva está por comenzar.
 
